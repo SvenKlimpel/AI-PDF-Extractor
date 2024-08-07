@@ -15,8 +15,13 @@ openai-API
 #### analyze function:
 - analyzes the text and displays the output in output textbox
 
+![image](https://github.com/user-attachments/assets/f896feb2-536f-4a29-9ef6-4227f4d22f99)
+
 #### drag and drop:
 - makes it possible to drag and drop pdf file into software to analyse it
 
 #### output
 - textbox that displays the summarized pdf text
+
+## How it looks
+![image](https://github.com/user-attachments/assets/b2c744e5-aef4-41d2-8db3-132342bc362e)
